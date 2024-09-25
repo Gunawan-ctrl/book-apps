@@ -1,0 +1,75 @@
+{
+  "category": [
+    {
+      "name": "Fiksi",
+      "deskripsi": "cerita fiksi",
+      "id": "c4dd"
+    },
+    {
+      "name": "Non Fiksi",
+      "deskripsi": "Cerita Non Fiksi",
+      "id": "0a07"
+    },
+    {
+      "id": "30e7",
+      "name": "general",
+      "deskripsi": "general"
+    }
+  ],
+  "member": [
+    {
+      "nama_lengkap": "Gunawan",
+      "email": "gunawan.rct@gmail.com",
+      "alamat": "Jl Ahmad Yani, No.70, Pelita, Enggal, Bandar Lampung. Lampung",
+      "username": "gunawan",
+      "password": "123",
+      "level": 1,
+      "id": "c4dd"
+    },
+    {
+      "nama_lengkap": "Et sed unde laborum",
+      "email": "Debitis porro modi e",
+      "alamat": "Rerum ut sint dolor",
+      "username": "Voluptas ea occaecat",
+      "password": "Doloremque veritatis",
+      "level": 2,
+      "id": "6363"
+    }
+  ],
+  "books": [
+    {
+      "judul": "The Bike Guys",
+      "kategori": "Non Fiksi",
+      "penulis": "Dolorum duis consequ",
+      "deskripsi": "Et exercitationem do",
+      "penerbit": "Airlangga",
+      "publist_year": "2024-09-18",
+      "cover_buku": "",
+      "upload_buku": {},
+      "upload_cover": {},
+      "id": "9e90"
+    },
+    {
+      "id": "a7d7",
+      "judul": "Eum et sint consequa",
+      "kategori": "Non Fiksi",
+      "penulis": "Quia amet mollitia ",
+      "deskripsi": "Tempor consequat An",
+      "penerbit": "Culpa in quas enim ",
+      "publist_year": "1989-06-22",
+      "cover_buku": "",
+      "upload_buku": "Commodo nihil deleni",
+      "upload_cover": "Rerum deleniti id ob"
+    }
+  ],
+  "peminjaman": [
+    {
+      "peminjam": "The Bike Guys",
+      "buku": "Non Fiksi",
+      "tgl_peminjaman": "Dolorum duis consequ",
+      "tgl_pengembalian": "Et exercitationem do",
+      "status": "Dipinjam",
+      "id": "9e90"
+    }
+  ]
+}
